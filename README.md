@@ -42,7 +42,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-Look at files (gif contained): https://github.com/zsurani/newyorktimes/blob/master/nytimes.gif
+Look at files (gif contained): https://github.com/zsurani/newyorktimes/blob/master/nytimes2.gif
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
